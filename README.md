@@ -6,11 +6,12 @@ An academic UI/UX project focused on designing an emergency hospital response da
 
 ## Dashboard — Dark Mode
 
-![MediLink Dashboard - Dark Mode](Screenshots/MediLink_Dashboard_DarkMode.png)
+![MediLink Dashboard - Dark Mode](MediLink_Dashboard_DarkMode.png)
 
 ## Key Features
 
-- Real-time multiple emergency monitoring 
+- Real-time multiple emergency monitoring
+![MediLink Dashboard - Handling Multipile Emerganicies](Handling_Multiple_Emergencies.png)
 - Patient information and emergency status
 - Emergency response team management
 - Emergency priority indicators
