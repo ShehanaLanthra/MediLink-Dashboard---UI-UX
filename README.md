@@ -13,10 +13,17 @@ An academic UI/UX project focused on designing an emergency hospital response da
 - Real-time multiple emergency monitoring
 ![MediLink Dashboard - Handling Multipile Emerganicies](Handling_Multiple_Emergencies.png)
 - Patient information and emergency status
-- Emergency response team management
+![MediLink Dashboard - Handling Multipile Emerganicies](Patient_details_including_realtime_location.png)
+- Emergency response team management (Monitor both patient and team locations and generate the best route)
+![MediLink Dashboard - Handling Multipile Emerganicies](Monitoring_Both_Patient_and_Team_Locations.png)
+- Reduce errors - Since this is a emergency system system should not allow to cancel emergency immediately.
+![MediLink Dashboard - Handling Multipile Emerganicies](Reduce_errrors.png)
 - Emergency priority indicators
+Used color codes - Red for high priority cases and Yellow for low priority cases.
 - Light and dark mode
-- User-friendly and accessibility-focused interface
+Identified some users are uncomfortable with light mode. So, introduced Dark Mode Dashboard as well.
+- User-friendly and accessibility-focused interface.
+Used Blue tones. Trust + Professionalism
 
 ## Design Process
 
