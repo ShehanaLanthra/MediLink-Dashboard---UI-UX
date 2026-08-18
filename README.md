@@ -10,20 +10,39 @@ An academic UI/UX project focused on designing an emergency hospital response da
 
 ## Key Features
 
-- Real-time multiple emergency monitoring
-![MediLink Dashboard - Handling Multipile Emerganicies](Handling_Multiple_Emergencies.png)
-- Patient information and emergency status
-![MediLink Dashboard - Handling Multipile Emerganicies](Patient_details_including_realtime_location.png)
-- Emergency response team management (Monitor both patient and team locations and generate the best route)
-![MediLink Dashboard - Handling Multipile Emerganicies](Monitoring_Both_Patient_and_Team_Locations.png)
-- Reduce errors - Since this is a emergency system system should not allow to cancel emergency immediately.
-![MediLink Dashboard - Handling Multipile Emerganicies](Reduce_errrors.png)
-- Emergency priority indicators
-Used color codes - Red for high priority cases and Yellow for low priority cases.
-- Light and dark mode
-Identified some users are uncomfortable with light mode. So, introduced Dark Mode Dashboard as well.
-- User-friendly and accessibility-focused interface.
-Used Blue tones. Trust + Professionalism
+### Real-Time Multiple Emergency Monitoring
+![MediLink Dashboard - Handling Multiple Emergencies](Handling_Multiple_Emergencies.png)
+
+The dashboard allows dispatchers to monitor multiple emergency cases simultaneously.
+
+### Patient Information & Emergency Status
+![MediLink Dashboard - Patient Information](Patient_details_including_realtime_location.png)
+
+Displays patient information, emergency status, and real-time patient location.
+
+### Emergency Response Team Management
+![MediLink Dashboard - Monitoring Locations](Monitoring_Both_Patient_and_Team_Locations.png)
+
+Allows dispatchers to monitor both patient and response team locations and identify the best route for emergency response.
+
+### Error Prevention
+![MediLink Dashboard - Reduce Errors](Reduce_errors.png)
+
+To prevent accidental actions in an emergency situation, the system does not allow an emergency to be cancelled immediately.
+
+### Emergency Priority Indicators
+
+Color coding is used to help dispatchers quickly identify emergency priorities:
+- 🔴 **Red** — High-priority emergencies
+- 🟡 **Yellow** — Lower-priority emergencies
+
+### Light & Dark Mode
+
+The dashboard includes both **Light Mode and Dark Mode** to accommodate users who may be uncomfortable working with a bright interface for extended periods.
+
+### User-Friendly & Accessible Interface
+
+Blue tones were used throughout the interface to communicate **trust, professionalism, and reliability**, which are important qualities for a hospital emergency response system.
 
 ## Design Process
 
